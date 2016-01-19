@@ -1,0 +1,1 @@
+Example Scala project showing how to develop a TCP client using Akka. For a detail explanation read the associated article at https://mobiarch.wordpress.com/2016/01/19/reactive-tcp-client-using-akka-framework/.
